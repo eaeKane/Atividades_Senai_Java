@@ -1,4 +1,4 @@
-package Aula3_Java;
+package EX_03_Java;
 import java.util.Scanner;
 
 public class Ex_03 {
