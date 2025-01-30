@@ -1,4 +1,4 @@
-package Aula1_Java;
+package EX_01_Java;
 
 import java.util.Scanner;
 
@@ -132,7 +132,7 @@ public class Ex_01 {
 
     public static void EX10() {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Digite um número e saiba se ele está entre 10 e 50: ");
+        System.out.println("Digite um número e saiba se ele está entre 100 e 200: ");
         int n = sc.nextInt();
         if (n >= 100 && n <= 200) {
             System.out.println(n + " está dentro do intervalo de 100 e 200.");
