@@ -1,4 +1,4 @@
-package EX_06_Java;
+package Lista_01.EX_06_Java;
 
 import java.util.Scanner;
 
